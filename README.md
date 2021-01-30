@@ -3,19 +3,19 @@
 This is a simple Android App where users can change the text color, background color, change the text content, as well as entering their own text.
 
 ### App Walk-though
-User can change the text color:
+User can change the text color:<br>
 <img src="walkthrough-gifs/changeTextColor.gif" width=200><br>
 
-User can change the background color:
+User can change the background color:<br>
 <img src="walkthrough-gifs/changeBackgroundColor.gif" width=200><br>
 
-User can change the text:
+User can change the text:<br>
 <img src="walkthrough-gifs/changeText.gif" width=200><br>
 
-User can enter their custom text:
+User can enter their custom text:<br>
 <img src="walkthrough-gifs/customText.gif" width=200><br>
 
-User can tap on the background view to reset all views to default settings:
+User can tap on the background view to reset all views to default settings:<br>
 <img src="walkthrough-gifs/reset.gif" width=200><br>
 
 ### Required User Stories
