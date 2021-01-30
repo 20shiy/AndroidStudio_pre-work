@@ -4,19 +4,19 @@ This is a simple Android App where users can change the text color, background c
 
 ### App Walk-though
 User can change the text color:
-<img src="C:\Users\shiyi\MyAndroidProjects\gif-walkthrough\changeTextColor.gif" width=200><br>
+<img src="walkthrough-gifs/changeTextColor.gif" width=200><br>
 
 User can change the background color:
-<img src="C:\Users\shiyi\MyAndroidProjects\gif-walkthrough\changeBackgroundColor.gif" width=200><br>
+<img src="walkthrough-gifs/changeBackgroundColor.gif" width=200><br>
 
 User can change the text:
-<img src="C:\Users\shiyi\MyAndroidProjects\gif-walkthrough\changeText.gif" width=200><br>
+<img src="walkthrough-gifs/changeText.gif" width=200><br>
 
 User can enter their custom text:
-<img src="C:\Users\shiyi\MyAndroidProjects\gif-walkthrough\customText.gif" width=200><br>
+<img src="walkthrough-gifs/customText.gif" width=200><br>
 
 User can tap on the background view to reset all views to default settings:
-<img src="C:\Users\shiyi\MyAndroidProjects\gif-walkthrough\reset.gif" width=200><br>
+<img src="walkthrough-gifs/reset.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
