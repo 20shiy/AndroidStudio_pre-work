@@ -18,6 +18,9 @@ User can enter their custom text:
 User can tap on the background view to reset all views to default settings:
 <img src="walkthrough-gifs/reset.gif" width=200><br>
 
+If the text field is empty, update the label with a default text:<br>
+<img src="walkthrough-gifs/emptyString.gif" width=200><br>
+
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
